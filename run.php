@@ -75,7 +75,7 @@ function register ($proxy, $referral) {
 
 // $proxy = '1.10.187.237:8080';
 echo "Referral brag.gg\n";
-echo "Created by yudha tira pamungkas\n\n";
+echo "Created by 0xdkyzz\n\n";
 
 echo "Name file proxy (ex: socks.txt): ";
 $namefile = trim(fgets(STDIN));
